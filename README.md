@@ -1,0 +1,2 @@
+# DegiskenVeriTipleri
+ DegiskenVeriTipleri eklendi
